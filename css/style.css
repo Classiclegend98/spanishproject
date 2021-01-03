@@ -66,6 +66,7 @@ nav ul a {
   background: rgba(134, 250, 124, 0.6);
   border-radius: 33px;
   height: 100%;
+  margin-top: -15px;
 }
 
 .introarticulos {
@@ -74,10 +75,11 @@ nav ul a {
   margin-bottom: 50px;
   background: rgba(134, 250, 124, 0.6);
   border-radius: 33px;
-  height: max-content;
+  height: 100%;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 10px;
+  margin-top: -15px;
 }
 
 .text {
