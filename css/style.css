@@ -12,7 +12,7 @@ html {
 body {
   display: grid;
   grid-row-gap: 6rem;
-  background: url("img/feuilles.jpg") no-repeat center center/cover;
+  background: url("../img/feuilles.jpg") no-repeat center center/cover;
   position: relative;
   top: 0;
   left: 0;
@@ -25,7 +25,7 @@ body {
 header {
   justify-content: center;
   border: #fff solid 1px;
-  background: url("img/Green-label.png") no-repeat center center/cover;
+  background: url("../img/Green-label.png") no-repeat center center/cover;
   align-items: center;
   text-align: center;
   font-family: "La Belle Aurore", cursive;
@@ -132,7 +132,7 @@ img {
 }
 
 #index-gallery {
-  background-image: url("img/turismo-sostenible.jpg");
+  background-image: url("../img/turismo-sostenible.jpg");
 }
 
 /* Popup window when clicked */
